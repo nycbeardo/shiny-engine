@@ -49,7 +49,7 @@ body{
     display: flex;
     justify-items: center;
     align-items: center;
-    background: (49, 162, 255);
+    background: rgb(49, 162, 255);
     perspective: 1000px;
 }
 
