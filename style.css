@@ -115,6 +115,11 @@ body{
     text-transform: uppercase;
 }
 
+p.info {
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
 .card:hover .inside-content {
     opacity: 1;
     transition-delay: 2.5s;
